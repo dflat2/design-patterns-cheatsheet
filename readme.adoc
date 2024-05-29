@@ -6,37 +6,37 @@ Personnal cheatsheet for design patterns, made with PlantUML.
 
 == Structural patterns
 
-image::{root}/image/Adapter.png[align="center"]
+image::image/Adapter.png[align="center"]
 
-image::{root}/image/Facade.png[align="center"]
+image::image/Facade.png[align="center"]
 
-image::{root}/image/decorator.png[align="center"]
+image::image/decorator.png[align="center"]
 
-image::{root}/image/Composite.png[align="center"]
+image::image/Composite.png[align="center"]
 
 == Creational patterns
 
-image::{root}/image/FactoryMethod.png[align="center"]
+image::image/FactoryMethod.png[align="center"]
 
-image::{root}/image/AbstractFactory.png[align="center"]
+image::image/AbstractFactory.png[align="center"]
 
-image::{root}/image/Singleton.png[align="center"]
+image::image/Singleton.png[align="center"]
 
 == Behavioral patterns
 
-image::{root}/image/State.png[align="center"]
+image::image/State.png[align="center"]
 
-image::{root}/image/Strategy.png[align="center"]
+image::image/Strategy.png[align="center"]
 
-image::{root}/image/Observer.png[align="center"]
+image::image/Observer.png[align="center"]
 
-image::{root}/image/TemplateMethod.png[align="center"]
+image::image/TemplateMethod.png[align="center"]
 
-image::{root}/image/Visitor.png[align="center"]
+image::image/Visitor.png[align="center"]
 
-image::{root}/image/Iterator.png[align="center"]
+image::image/Iterator.png[align="center"]
 
-image::{root}/image/Command.png[align="center"]
+image::image/Command.png[align="center"]
 
 == Other resources
 
