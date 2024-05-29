@@ -10,7 +10,7 @@ image::image/Adapter.png[align="center"]
 
 image::image/Facade.png[align="center"]
 
-image::image/decorator.png[align="center"]
+image::image/Decorator.png[align="center"]
 
 image::image/Composite.png[align="center"]
 
