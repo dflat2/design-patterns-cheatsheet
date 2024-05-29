@@ -1,5 +1,4 @@
 = Design Patterns CheatSheet
-:tags: informatique fiche-bristole design-patterns
 :toc:
 
 Personnal cheatsheet for design patterns, made with PlantUML.
